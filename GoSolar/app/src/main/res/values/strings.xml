@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">GoSolar</string>
+    <string name="welcome_label">Welcome to GoSolar</string>
+    <string name="gosolar_menu">Main Menu</string>
+    <string name="menu_create_project">Create New Project</string>
+    <string name="detail_project">Project Details</string>
+    <string name="capture_image">Capture Image</string>
+
+    <string name="description_app">Before installing Photovoltaic (PV) panels at a place it is important to estimate the
+solar potential of the place. The approaches available in literature for this purpose
+do not consider the presence of surrounding obstructions, thus producing wrong
+estimates. LiDAR data or 3D GIS based approaches consider the obstructions but
+prove cost-effective only at city-wide scales. This paper presents a cost-effective,
+accurate, and suitable-to-be-used-by-common people approach for this purpose. The
+paper utilizes terrestrial images of the surroundings and identifies the obstructions
+present therein. Using the azimuth and elevation angles of the principal axes of
+terrestrial images the azimuth and elevation angles of each pixel in these images are
+determined. Using thresholding and morphological closing the terrestrial images are
+converted into sky and non-sky zones. Sun is only visible at the point of interest if it
+lies in the sky zone. The position of the Sun is determined using the model of Grena
+(2007). The irradiance reaching the Earth surface is computed using the modified
+radiative transfer model of Yang et al. (2001). Finally the total irradiance over a
+chosen time period at a given location is estimated by integrating the irradiances
+when the Sun is visible. This approach has potential to be used by masses using
+their smartphone to estimate the solar potential of their rooftop.</string>
+
+</resources>
